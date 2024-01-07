@@ -38,7 +38,7 @@ yarn-error.log*
 .firebase/
 
 .env
-
+.gitignore
 # Contentlayer
 .contentlayer
 
